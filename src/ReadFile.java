@@ -19,7 +19,7 @@ public class ReadFile {
     }
 
     private void readTheFile(){
-        file = "vgsales_doubles.csv";
+        file = "vgsales.csv";
 
         try {
 
